@@ -1,0 +1,17 @@
+# Ignore IDE / system folders
+.metadata/
+RD_System/
+
+# Backend
+rd-system-backend/target/
+rd-system-backend/.classpath
+rd-system-backend/.project
+rd-system-backend/.settings/
+
+# Frontend
+rd-system-frontend/node_modules/
+rd-system-frontend/dist/
+
+# OS files
+Thumbs.db
+.DS_Store
